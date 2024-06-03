@@ -6,8 +6,9 @@
 <h4 align="center">
  The School of Code quiz and progress tracking app built by Algorhythm.<br /> <br />
  For information on how to use functions within the app, please use <a href="https://www.notion.so/algorhythmdocs/SoCBrain-Docs-1c9124260da64589ad52303490438d79">SoCBrain Docs</a>.
+ Original Repo = <a ref="https://github.com/SchoolOfCode/bc16-final-projects-team_algorhythm" target="_blank">Here</a>
 </h4>
-Original Repo = <a ref="https://github.com/SchoolOfCode/bc16-final-projects-team_algorhythm" target="_blank">Here</a>
+
 ## How To
 
 - The deployed site is live at https://socbrain.vercel.app/. All bootcampers should be directed here and should not be given access to this repository.
