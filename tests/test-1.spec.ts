@@ -3,7 +3,7 @@ import { test, expect } from '@playwright/test';
 test('test', async ({ page }) => {
   await page.goto('https://socbrain.vercel.app/login');
   await page.getByPlaceholder('you@example.com').click();
-  await page.getByPlaceholder('you@example.com').fill('test@gmail.com');
+  await page.getByPlaceholder('you@example.com').fill('bootcamper@bootcamper.com');
   await page.getByPlaceholder('you@example.com').press('Tab');
   await page.getByPlaceholder('••••••••').fill('123456');
   await page.getByPlaceholder('••••••••').press('Enter');
